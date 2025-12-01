@@ -1,4 +1,4 @@
 replicaCount: 4
 
 image:
-  tag: prod
+  tag: latest
